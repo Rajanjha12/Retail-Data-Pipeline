@@ -51,7 +51,7 @@ Add the following sections:
 
 Include image placeholders like:
 
-![Architecture](images/architecture.png)
+![Architecture](Screenshot2026-06-29125025.png)
 
 Screenshot 2026-06-29 125025.png
 
