@@ -53,7 +53,8 @@ Include image placeholders like:
 
 ![Architecture](images/architecture.png)
 
-![Dashboard 1](images/dashboard1.png)
+![Dashboard 1](Screenshot 2026-06-29 125025.png
+)
 
 ![Dashboard 2](images/dashboard2.png)
 
